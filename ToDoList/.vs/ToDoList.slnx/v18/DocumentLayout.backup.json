@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\ToDoList\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|c:\\projetos\\todolist\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|c:\\projetos\\todolist\\todolist\\todolist\\services\\itemmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\services\\itemmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|c:\\projetos\\todolist\\todolist\\todolist\\models\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|c:\\projetos\\todolist\\todolist\\todolist\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|c:\\projetos\\todolist\\todolist\\todolist\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0764FD-DA7A-464B-AF8E-CE087B2D6CDA}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainExceptions.cs",
+              "DocumentMoniker": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Exceptions\\DomainExceptions.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Exceptions\\DomainExceptions.cs",
+              "ToolTip": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Exceptions\\DomainExceptions.cs",
+              "RelativeToolTip": "ToDoList\\Exceptions\\DomainExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:40:22.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemManagement.cs",
+              "DocumentMoniker": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Services\\ItemManagement.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Services\\ItemManagement.cs",
+              "ToolTip": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Services\\ItemManagement.cs",
+              "RelativeToolTip": "ToDoList\\Services\\ItemManagement.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:13:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Models\\Entities\\WorkItem.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\Entities\\WorkItem.cs",
+              "ToolTip": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Models\\Entities\\WorkItem.cs",
+              "RelativeToolTip": "ToDoList\\Models\\Entities\\WorkItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:12:30.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Models\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\Enums\\Status.cs",
+              "ToolTip": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Models\\Enums\\Status.cs",
+              "RelativeToolTip": "ToDoList\\Models\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:10:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\projetos\\ToDoList\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAGIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:09:08.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
