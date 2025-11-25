@@ -24,10 +24,13 @@ Os principais pontos abordados foram:
 
 Abaixo, uma demonstração da interface da aplicação rodando no console:
 
+**Example:**
 <img width="1120" height="629" alt="Image" src="https://github.com/user-attachments/assets/70720557-68c8-433c-aefe-02c53a4a8fc9" />
 
+**Example adding items to the list:**
 <img width="1121" height="405" alt="Image" src="https://github.com/user-attachments/assets/efa739ff-31b3-4e1a-8d10-ca4b725c29cd" />
 
+**Example marking a task as complete:**
 <img width="1119" height="431" alt="Image" src="https://github.com/user-attachments/assets/19a198d7-c664-4b3b-b4a7-729fcd08d238" />
 
 O menu interativo permite navegar entre adicionar, listar, concluir e remover tarefas de forma dinâmica.
