@@ -24,8 +24,7 @@ Os principais pontos abordados foram:
 
 Abaixo, uma demonstração da interface da aplicação rodando no console:
 
-// Colocar imagem aqui.
-
+<img width="1120" height="629" alt="Image" src="https://github.com/user-attachments/assets/70720557-68c8-433c-aefe-02c53a4a8fc9" />
 O menu interativo permite navegar entre adicionar, listar, concluir e remover tarefas de forma dinâmica.
 
 ### Instruções de uso
